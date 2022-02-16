@@ -1,0 +1,57 @@
+body{
+    background-color: coral;
+}
+
+.header{
+    text-align: center;
+}
+
+div.bitcoin{
+    text-align: right;
+}
+
+.azul1{
+    color: blue;
+}
+
+
+div.etherum{
+    text-align: center;
+    background-color: white;
+}
+
+.azul2{
+    color: blue;
+}
+
+div.litecoin{
+    text-align: left;
+}
+
+.azul3{
+    color: blue;
+}
+
+div.footer{
+    text-align: center;
+    background-color: yellow;
+}
+
+span.rojo{
+    color: red;
+}
+
+.header2{
+    text-align: center;
+}
+
+input.rojo{
+    color: red;
+}
+
+div.footer2{
+    text-align: center;
+    background-color: yellow;
+}
+
+
